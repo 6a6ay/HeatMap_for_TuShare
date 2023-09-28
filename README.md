@@ -1,3 +1,7 @@
+#Количество копирований - 17
+#Количество веток - 1
+#Количество разработчиков - 1
+#Регулярность использования - 18
 Please see the project of HeatMap_Echart_for_TuShare, it is better solution.
 # HeatMap_for_TuShare
 Create a heatmap for Real time China stocks price by TuShare's data
